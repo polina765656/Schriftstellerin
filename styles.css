@@ -9,8 +9,7 @@ ul{
     list-style-type: none;
 }
 ul{
-    width:calc(( 100vw / 3) - 20px) ;
-    display: inline-block;
+  display: flex;
 }
 
 body {
