@@ -1,3 +1,3 @@
-Eine Website über eine sowjetische Schriftstellerin, anhend deren ich über HTML und CSS lernen werde
+Eine Website, auf der du über zwei bemerkenswerte SCHRIFTSTLLER aus der Zeit der Sowjetunion erfahren kannst. Ich wiederum werde dafür Erfahrung im Schreiben von Websites mit HTML und CSS sammeln. 
 
 Hier kannst du Website sehen: https://polina765656.github.io/Schriftstellerin/
