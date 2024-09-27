@@ -44,3 +44,10 @@ pre {
 .tabelle_inhalt{
   padding: 2em;
 }
+footer {
+  margin : 0 auto;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  background-color: #1f1f1f;
+  color :#eee;
+}
