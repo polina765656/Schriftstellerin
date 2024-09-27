@@ -14,19 +14,15 @@ ul{
 
 body {
     color: #2c2c2c;
-  }
-  h1 ; body ; h2 {
+
     font-family: "Helvetica";
-  }
-body {
+
     margin : 0 auto;
     max-width : 20 em ; 
- }  
- body {
+ 
   line-height: 1.5;
-  padding: 4em 1em;
+  padding: 4em 6em;
 }
-
 h2 {
   margin-top: 1em;
   padding-top: 1em;
