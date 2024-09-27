@@ -16,12 +16,13 @@ body {
     color: #2c2c2c;
 
     font-family: "Helvetica";
+}
+article {
+  margin : 0 auto;
+  max-width : 60em ; 
 
-    margin : 0 auto;
-    max-width : 60em ; 
- 
-  line-height: 1.5;
-  padding: 4em 6em;
+line-height: 1.5;
+padding: 4em 6em;
 }
 h2 {
   margin-top: 1em;
@@ -50,4 +51,7 @@ footer {
   padding-bottom: 5em;
   background-color: #1f1f1f;
   color :#eee;
+}
+.tabelle_Buch {
+
 }
